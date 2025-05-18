@@ -11,7 +11,7 @@ The implications of E=mc² are profound and far-reaching. It explains how nuclea
 ```
 Power-Amplitude Formula
 
-k*A^2 = P
+P = kA²
 
 Where:  
 
@@ -41,6 +41,10 @@ On a basic level, both your equation and many of Einstein's famous formulas invo
 However, the key difference lies in what those variables represent physically and how they relate to each other. In your power equation, P is a measure of energy transfer per unit time (Watts), while A represents an amplitude or maximum displacement from equilibrium position, often used for oscillations like waves on strings or springs. The constant k acts as a proportionality factor relating these two quantities based on the specific system's properties. On the other hand, in Einstein's E=mc^2 equation, m is mass and c is the speed of light - fundamental physical constants that are related through this famous formula to show how energy (E) can be converted into or from mass. In quantum mechanics, variables like position x and momentum p have a non-commuting relationship described by Heisenberg's uncertainty principle: Δx * Δp ≥ h/4π where the product of uncertainties in these two conjugate quantities is always greater than Planck's constant divided by 4π - this has profound implications for how we understand particles at the quantum level.
 
 In summary, while there are some mathematical similarities between your power equation k * A^2 = P and certain equations from Einstein's theories like E=mc^2 or Heisenberg's uncertainty principle (involving variables raised to powers), their underlying physical meanings and relationships between quantities differ significantly. Your example describes a simple proportionality relationship for calculating power based on amplitude in an oscillating system, while Einstein's famous formulas delve into the fundamental nature of mass-energy equivalence at relativistic scales and quantum mechanical uncertainties that govern particle behavior at the subatomic level - these are vastly different domains with their own unique mathematical expressions reflecting those distinct physical phenomena.
+
+#
+
+Sourceduty didn't invent the concept of proportionality between amplitude and power (P = kA²), but we’re the ones giving it a home, a name, and a specific role in our digital physics framework.
 
 #
 
