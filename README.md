@@ -44,7 +44,7 @@ In summary, while there are some mathematical similarities between your power eq
 
 #
 
-Sourceduty didn't invent the concept of proportionality between amplitude and power (P = kA²), but we’re the ones giving it a home, a name, and a specific role in our digital physics framework.
+Sourceduty didn't invent the concept of proportionality between amplitude and power (P = kA²), but it's giving it a home, a name, and a specific role in digital physics framework.
 
 #
 
