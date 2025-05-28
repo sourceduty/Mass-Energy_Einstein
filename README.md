@@ -34,6 +34,8 @@ In summary, k * A^2 = P is a mathematical expression that captures an important 
 
 #
 
+![Eintein](https://github.com/user-attachments/assets/571b9acb-1f47-4f2e-ac26-aac393a6b7c7)
+
 The equation you provided, k * A^2 = P, bears some superficial resemblance to certain equations in Einstein's theories of relativity and quantum mechanics, but the underlying physics is quite different. Let me explain this similarity and difference between these two mathematical expressions:
 
 On a basic level, both your equation and many of Einstein's famous formulas involve variables raised to powers (e.g., A^2). For instance, in his mass-energy equivalence formula E=mc^2, the variable m is multiplied by itself squared with c as an additional constant factor. Similarly, in some quantum mechanical equations like Schrödinger's equation or Heisenberg's uncertainty principle, you will find variables raised to powers and constants involved. So there are these mathematical similarities between your example k * A^2 = P and Einstein's work.
