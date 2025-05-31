@@ -63,3 +63,5 @@ Sourceduty didn't invent the concept of proportionality between amplitude and po
 [Math Tools](https://github.com/sourceduty/Math_Tools)
 <br>
 [Einstein Battle](https://chatgpt.com/g/g-9PHd81pO2-einstein-battle)
+<br>
+[Einstein Game](https://chatgpt.com/g/g-6MypD53av-einstein-game)
