@@ -42,7 +42,7 @@ However, E = mc² is a special case of a more general relativistic energy-moment
 
 #
 
-![Indoor Golf](https://github.com/user-attachments/assets/ee09b4fe-933e-4881-bd83-da252cf95131)
+![Einstein](https://github.com/user-attachments/assets/b52d9ba3-a763-42d2-945e-32bc79a9b54d)
 
 The equation you provided, k * A^2 = P, bears some superficial resemblance to certain equations in Einstein's theories of relativity and quantum mechanics, but the underlying physics is quite different. Let me explain this similarity and difference between these two mathematical expressions:
 
