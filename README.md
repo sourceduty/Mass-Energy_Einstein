@@ -64,7 +64,7 @@ The innovation behind the Power-Amplitude Formula, P = kA², lies in reimagining
 
 #
 
-Alex: _I tried to change and update Einstein's work and I learned that Einstein is permanent in scientific history. I can see the freamework of Einstein's work and it's hard to adjust._
+Alex: _I tried to change and update Einstein's work and I learned that Einstein is permanent in scientific history. I can see the framework of Einstein's work and it's hard to adjust._
 
 #
 
